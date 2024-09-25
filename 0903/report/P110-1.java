@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-	public class ScannerTest {
+	public class P110-1 {
 		public static void main(String[] args) {
 			Scanner sca = new Scanner(System.in);	//	Scanner 객체 생성
 			
